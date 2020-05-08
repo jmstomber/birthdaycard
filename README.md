@@ -1,2 +1,2 @@
-# birthdaycard
+# birthday card
 Happy birthday Jared!
